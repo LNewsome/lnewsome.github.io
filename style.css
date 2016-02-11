@@ -14,7 +14,6 @@ h1{
   margin-right: auto;
   margin-top: 200px;
   margin-bottom: auto;
-  position:relative;
 
 
 }
@@ -26,6 +25,7 @@ h2{
   color: rgb(255,255,255);
   display: grid;
   margin-top: 50px;
+  margin-bottom: inherit;
 }
 
 h3{
@@ -35,6 +35,7 @@ h3{
   color: rgb(255,255,255);
   display: grid;
   margin-top: 5px;
+  margin-bottom:auto;
 }
 h4{
   text-align: right;
@@ -43,4 +44,8 @@ h4{
   color: rgb(255,255,255);
   diplay: grid;
   margin-top: 50px;
+  margin-bottom: inherit;
+}
+foot{
+  
 }
