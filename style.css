@@ -1,8 +1,9 @@
+* {
+  outline: 1px solid red;
+}
+
 Body{
-  background : gray;
-  text-align: center;
-  font-style: normal;
-  font-size: 20px;
+  background: lightblue;
 }
 h1{
   text-align: center;
@@ -47,5 +48,5 @@ h4{
   margin-bottom: inherit;
 }
 foot{
-  
+
 }
