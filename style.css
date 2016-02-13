@@ -5,11 +5,12 @@
 Body{
   background: rgb(230, 189, 147);
 }
+
 h1{
   text-align: center;
   font-size: 100px;
   font-style: oblique;
-  font-family: Awesome Darling;
+  font-family: ZnikomitNo24;
   color: rgb(255,255,255);
   display: block;
   margin-left: auto;
@@ -23,6 +24,7 @@ h2{
   text-align: left;
   font-size: 25px;
   font-style: normal;
+  font-family: Ostrich Sans Rounded;
   color: rgb(255,255,255);
 
 }
@@ -31,6 +33,7 @@ h3{
   text-align: center;
   font-size: 25px;
   font-style: normal;
+  font-family: Ostrich Sans Rounded;
   color: rgb(255,255,255);
 
 }
@@ -38,6 +41,7 @@ h4{
   text-align: justify;
   font-size: 25px;
   font-style: normal;
+  font-family: Ostrich Sans Rounded;
   color: rgb(255,255,255);
 }
 foot{
