@@ -3,7 +3,7 @@
 }
 
 Body{
-  background: lightblue;
+  background: rgb(230, 189, 147);
 }
 h1{
   text-align: center;
@@ -17,7 +17,6 @@ h1{
   margin-top: 200px;
   margin-bottom: auto;
 
-
 }
 
 h2{
@@ -25,9 +24,7 @@ h2{
   font-size: 25px;
   font-style: normal;
   color: rgb(255,255,255);
-  display: grid;
-  margin-top: 50px;
-  margin-bottom: inherit;
+
 }
 
 h3{
@@ -35,18 +32,13 @@ h3{
   font-size: 25px;
   font-style: normal;
   color: rgb(255,255,255);
-  display: grid;
-  margin-top: 5px;
-  margin-bottom:auto;
+
 }
 h4{
-  text-align: right;
+  text-align: justify;
   font-size: 25px;
   font-style: normal;
   color: rgb(255,255,255);
-  diplay: grid;
-  margin-top: 50px;
-  margin-bottom: inherit;
 }
 foot{
 
