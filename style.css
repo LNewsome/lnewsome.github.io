@@ -7,8 +7,9 @@ Body{
 }
 h1{
   text-align: center;
-  font-size: 50px;
+  font-size: 100px;
   font-style: oblique;
+  font-family: Awesome Darling;
   color: rgb(255,255,255);
   display: block;
   margin-left: auto;
