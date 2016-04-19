@@ -1,17 +1,13 @@
-* {
-  outline: 1px solid red;
-}
-
 Body{
-  background: rgb(230, 189, 147);
+  background: white;
 }
 
 h1{
   text-align: center;
   font-size: 100px;
   font-style: oblique;
-  font-family: ZnikomitNo24;
-  color: rgb(255,255,255);
+  font-family: monospace;
+  color: black;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -20,30 +16,22 @@ h1{
 
 }
 
-h2{
-  text-align: left;
-  font-size: 25px;
-  font-style: normal;
-  font-family: Ostrich Sans Rounded;
-  color: rgb(255,255,255);
-
-}
-
-h3{
+h2 , h3, h4{
   text-align: center;
   font-size: 25px;
   font-style: normal;
   font-family: Ostrich Sans Rounded;
-  color: rgb(255,255,255);
-
+  color: black;
+  display: block;
+  float: left;
+  padding: 200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
-h4{
-  text-align: justify;
-  font-size: 25px;
-  font-style: normal;
-  font-family: Ostrich Sans Rounded;
-  color: rgb(255,255,255);
+
+div{
+  text-align: center;
 }
 foot{
-
+ text-align: center;
 }
