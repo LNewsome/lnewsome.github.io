@@ -13,20 +13,6 @@ h1{
   margin-right: auto;
   margin-top: 200px;
   margin-bottom: auto;
-
-}
-
-h2 , h3, h4{
-  text-align: center;
-  font-size: 25px;
-  font-style: normal;
-  font-family: Ostrich Sans Rounded;
-  color: black;
-  display: block;
-  float: left;
-  padding: 200px;
-  margin-top: 0px;
-  margin-bottom: 0px;
 }
 
 div{
@@ -34,4 +20,8 @@ div{
 }
 foot{
  text-align: center;
+}
+
+ul li {
+  display: inline-block;
 }
