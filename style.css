@@ -1,9 +1,9 @@
-Body{
+body{
   background: white;
 }
 
 h1{
-  text-align: center;
+  text-align: left;
   font-size: 80px;
   font-style: oblique;
   font-family: monospace;
@@ -15,9 +15,12 @@ h1{
   margin-bottom: auto;
 }
 
-foot{
- text-align: center;
-}
+#footer {
+    clear:both;
+    padding:10px;
+    margin-bottom:1em;
+    text-align: center;
+  }
 
 ul li {
   display: inline;
