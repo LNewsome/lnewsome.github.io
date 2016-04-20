@@ -4,25 +4,24 @@ body{
 
 h1{
   text-align: left;
-  font-size: 80px;
-  font-style: oblique;
+  font-size: 90px;
   font-family: monospace;
-  color: black;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 200px;
-  margin-bottom: auto;
+  /*color: black;*/
+  /*display: block;*/
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*margin-top: 200px;*/
+  /*margin-bottom: auto;*/
 }
 
-#footer {
-    clear:both;
-    padding:10px;
-    margin-bottom:1em;
-    text-align: center;
-  }
 
 ul li {
   display: inline;
+  font-style:normal;
 
+}
+
+.container{
+  display: inline-block;
+  background-color: lavender;
 }
