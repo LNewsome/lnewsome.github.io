@@ -24,6 +24,7 @@ ul li {
 .container{
   display: inline-block;
   background-color: lavender;
+  text-align: center;
 }
 
 .title{
