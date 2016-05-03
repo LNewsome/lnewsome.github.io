@@ -3,7 +3,7 @@ body{
 }
 
 h1{
-  text-align: left;
+  text-align: center;
   font-size: 90px;
   font-family: monospace;
   /*color: black;*/
@@ -24,4 +24,8 @@ ul li {
 .container{
   display: inline-block;
   background-color: lavender;
+}
+
+.title{
+  text-align: center;
 }
