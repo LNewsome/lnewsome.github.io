@@ -14,19 +14,11 @@ h1{
   /*margin-bottom: auto;*/
 }
 
-
-ul li {
-  display: inline;
-  font-style:normal;
-
-}
-
 .container{
   display: inline-block;
   background-color: lavender;
-  text-align: center;
 }
 
 .title{
-  text-align: center;
+  text-align: left;
 }
