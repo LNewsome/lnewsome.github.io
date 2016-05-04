@@ -18,6 +18,7 @@ h1{
   display: inline-block;
   background-color: white;
   text-align: center;
+  margin-left: 10em;
 }
 
 .title{
@@ -26,4 +27,8 @@ h1{
 
 p{
   text-align: center;
+  font-size: 18px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color:;
 }
