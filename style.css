@@ -6,19 +6,13 @@ h1{
   text-align: center;
   font-size: 90px;
   font-family: monospace;
-  /*color: black;*/
-  /*display: block;*/
-  /*margin-left: auto;*/
-  /*margin-right: auto;*/
-  /*margin-top: 200px;*/
-  /*margin-bottom: auto;*/
 }
 
 .container{
   display: inline-block;
   background-color: white;
   text-align: center;
-  margin-left: 10em;
+  margin-left: 8em;
   margin-right: 10em;
   word-spacing: 10em;
 }
@@ -33,27 +27,27 @@ p{
 
  h1 {
    font-size: 40px;
-   font-weight: 400;
    margin: 0;
  }
+
  h2{
    font-family: monospace;
    text-align: center;
  }
+
  p {
    font-family: monospace;
    font-size: 20px;
    margin-top: 26px;
  }
-.projects{
-  font-family: monospace;
-  display: inline-box;
-  text-align: center;
-  margin-left: 1em;
-  word-spacing: 5em;
-}
 
 h3{
   text-align: center;
   font-family: monospace;
+}
+img{
+  border-radius: 50%;
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
 }
