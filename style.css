@@ -19,16 +19,43 @@ h1{
   background-color: white;
   text-align: center;
   margin-left: 10em;
-}
-
-.title{
-  text-align: center;
+  margin-right: 10em;
+  word-spacing: 10em;
 }
 
 p{
   text-align: center;
   font-size: 18px;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 10em;
+  margin-right: 10em;
   color:;
+}
+
+ h1 {
+   font-size: 40px;
+   font-weight: 400;
+   margin: 0;
+ }
+ h2{
+   font-family: monospace;
+   text-align: center;
+ }
+ p {
+   font-family: monospace;
+   font-size: 20px;
+   margin-top: 26px;
+ }
+.projects{
+  font-family: monospace;
+  display: inline-box;
+  text-align: center;
+  margin-left: 1em;
+  word-spacing: 5em;
+}
+
+ul{
+ list-style-type: none;
+}
+h3{
+  text-align: center;
 }
