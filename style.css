@@ -51,3 +51,14 @@ img{
   border-style: solid;
   border-color: black;
 }
+#brand{
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+#bio{
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
