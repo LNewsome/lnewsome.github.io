@@ -19,7 +19,7 @@ h1{
 
 p{
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   margin-left: 10em;
   margin-right: 10em;
   color:;
@@ -56,5 +56,5 @@ img{
 #bio{
   text-align: center;
   font-family: monospace;
-  font-size: 15px;
+  font-size: 20px;
 }
