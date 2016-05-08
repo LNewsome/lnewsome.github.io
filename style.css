@@ -26,7 +26,7 @@ p{
 }
 
  h1 {
-   font-size: 40px;
+   font-size: 60px;
    margin: 0;
  }
 
@@ -46,10 +46,6 @@ h3{
   font-family: monospace;
 }
 img{
-  border-radius: 50%;
-  border-width: thin;
-  border-style: solid;
-  border-color: black;
 }
 #brand{
   text-align: center;
