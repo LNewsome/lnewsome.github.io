@@ -1,5 +1,5 @@
 body{
-  background: white;
+  background: #f0f5f9;
 }
 
 h1{
@@ -10,7 +10,7 @@ h1{
 
 .container{
   display: inline-block;
-  background-color: white;
+  background-color: #f0f5f9;
   text-align: center;
   margin-left: 8em;
   margin-right: 10em;
